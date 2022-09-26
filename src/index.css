@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: lightgray;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.Container-Fluid{
+  background-color: lightgray;
+  height: 98vh;
+  border: 2px solid black;
+}
+.BOX-grids-1{
+  height: 92vh;
+  margin-top: 10px;
+  border: 2px solid black;
+  margin-left: 10px;
+}
+.BOX-grids-2{
+  height: 92vh;
+  margin-top: 10px;
+  border: 2px solid black;
+  margin-right: 10px;
+}
+.Box-1{
+  border: 2px solid black;
+}
+.Box-2{
+  margin-top: 10px;
+  border: 2px solid black;
+  height: 25vh;
+}
+.Box-3{
+  margin-top: 10px;
+  border: 2px solid black;
+  height: 51.5vh;
+}
+.Details{
+  border: 2px solid black;
+  height: 20vh;
+  margin-top: 5px;
+}
